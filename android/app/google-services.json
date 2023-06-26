@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "671599634234",
+    "project_id": "cyra-fb-project",
+    "storage_bucket": "cyra-fb-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671599634234:android:53386aeb7a38c7c86d5203",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671599634234-nngljh2mirse7n0o4p0i2k06ltlje1d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YXLhyBd4q1W-jGcJTPmsQfPqmwgS4XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671599634234-nngljh2mirse7n0o4p0i2k06ltlje1d7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "671599634234-kdmtgscfcmvsm762kjlvg1ksfma4ks42.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseSetup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
